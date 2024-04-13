@@ -1,0 +1,23 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "entity": "this",
+      "name": "緑の宝石"
+    },
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        {
+          "text": "緑色に光る宝石"
+        },
+        {
+          "text": "東洋では「緑柱石」と"
+        },
+        {
+          "text": "呼ばれているらしい。"
+        }
+      ],
+      "replace": true
+    }
+  ]
+  

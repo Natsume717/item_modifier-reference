@@ -1,0 +1,23 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "entity": "this",
+      "name": "蒼の宝石"
+    },
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        {
+          "text": "青色に光る宝石"
+        },
+        {
+          "text": "東洋では「瑠璃」と"
+        },
+        {
+          "text": "呼ばれているらしい。"
+        }
+      ],
+      "replace": true
+    }
+  ]
+  
