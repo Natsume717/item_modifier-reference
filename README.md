@@ -1,8 +1,7 @@
 # item_modifier-reference
 item_modifierの1項目であるreferenceに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】referenceでitem_modifierを呼び出す【item_modifier】](https://natsumake.com/item_modifier-reference/)』を参考にしてください。
 
 <h3>概要</h3>
 referenceは作成済みのitem_modifierを呼び出す項目です。
